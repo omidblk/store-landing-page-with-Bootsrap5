@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "Vazir";
+    src: url(./assets/font/Vazir.eot);
+
+}
+
+body{
+    font-family: "Vazir" !important;
+}
+.section-gift{
+   background:#79affe;
+}
+.icon{
+    background-color: #d1e2fc;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-flex;
+}
+.carusel-section{
+    background-color: rgb(39, 43, 46);
+    color: white;
+}
+#footer{
+    background-color: #79affe;
+}
+.footer-header{
+    border-bottom: 2px solid ;
+    height: 25px;
+    width: 75%;
+}
+.footer-link{
+    text-decoration: none;
+    color: black;
+}
+.footer-link:hover{
+    color: black;
+}
